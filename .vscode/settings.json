@@ -1,0 +1,8 @@
+{
+	"editor.detectIndentation": false,
+	"editor.tabSize": 3,
+	"editor.insertSpaces": false,
+	"code-runner.executorMap": {
+		"typescript": "npx tsx",
+	}
+}
