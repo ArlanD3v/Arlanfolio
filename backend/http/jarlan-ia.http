@@ -1,0 +1,11 @@
+POST http://localhost:5678/webhook-test/jarlan-ia
+
+Content-Type: application/json
+
+{
+	"chatId":"71988616812",
+	"Mensagem": "Bom dia",
+	
+	}
+
+//Rever aula
