@@ -1,11 +1,7 @@
-POST http://localhost:5678/webhook-test/jarlan-ia
-
+POST http://localhost:5678/webhook-test/arlan-ia
 Content-Type: application/json
 
 {
-	"chatId":"71988616812",
-	"Mensagem": "Bom dia",
-	
-	}
-
-//Rever aula
+	"chatId": "71988616812",
+	"mensagem": "Arlan sabe desenvolver JavaScript?"
+}
